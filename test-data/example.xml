@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>APNIC Blog</title>
+	<atom:link href="https://blog.apnic.net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.apnic.net/</link>
+	<description>Regional Internet Registry for the Asia Pacific</description>
+	<lastBuildDate>Mon, 08 Jul 2024 23:54:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+<site xmlns="com-wordpress:feed-additions:1">73396298</site>	<item>
+		<title>Unravelling the threat of hosting-based domain takeovers</title>
+		<link>https://blog.apnic.net/2024/07/09/unravelling-the-threat-of-hosting-based-domain-takeovers/</link>
+					<comments>https://blog.apnic.net/2024/07/09/unravelling-the-threat-of-hosting-based-domain-takeovers/#respond</comments>
+		
+		<dc:creator><![CDATA[Mingming Zhang]]></dc:creator>
+		<pubDate>Mon, 08 Jul 2024 23:54:54 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=84270</guid>
+
+					<description><![CDATA[Guest Post: Introducing and evaluating a novel framework for detecting domain takeovers.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/09/unravelling-the-threat-of-hosting-based-domain-takeovers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">84270</post-id>	</item>
+		<item>
+		<title>How deploying IPv6 at NITK led me to IETF</title>
+		<link>https://blog.apnic.net/2024/07/08/how-deploying-ipv6-at-nitk-led-me-to-ietf/</link>
+					<comments>https://blog.apnic.net/2024/07/08/how-deploying-ipv6-at-nitk-led-me-to-ietf/#respond</comments>
+		
+		<dc:creator><![CDATA[Vanessa Maria Fernandes]]></dc:creator>
+		<pubDate>Sun, 07 Jul 2024 23:38:39 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83932</guid>
+
+					<description><![CDATA[Guest Post: A student’s experience at IETF.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/08/how-deploying-ipv6-at-nitk-led-me-to-ietf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83932</post-id>	</item>
+		<item>
+		<title>Where did DNSSEC go wrong?</title>
+		<link>https://blog.apnic.net/2024/07/05/where-did-dnssec-go-wrong/</link>
+					<comments>https://blog.apnic.net/2024/07/05/where-did-dnssec-go-wrong/#respond</comments>
+		
+		<dc:creator><![CDATA[Edward Lewis]]></dc:creator>
+		<pubDate>Thu, 04 Jul 2024 23:07:39 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=84164</guid>
+
+					<description><![CDATA[Guest Post: What lessons can we learn from the development of DNSSEC?]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/05/where-did-dnssec-go-wrong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">84164</post-id>	</item>
+		<item>
+		<title>Sometimes equals isn&#8217;t equal</title>
+		<link>https://blog.apnic.net/2024/07/04/sometimes-equals-isnt-equal/</link>
+					<comments>https://blog.apnic.net/2024/07/04/sometimes-equals-isnt-equal/#respond</comments>
+		
+		<dc:creator><![CDATA[George Michaelson]]></dc:creator>
+		<pubDate>Wed, 03 Jul 2024 22:30:29 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83882</guid>
+
+					<description><![CDATA[The meaning of 'equals' isn't as straightforward as it seems]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/04/sometimes-equals-isnt-equal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83882</post-id>	</item>
+		<item>
+		<title>A newcomer’s experience at IETF </title>
+		<link>https://blog.apnic.net/2024/07/03/a-newcomers-experience-at-ietf/</link>
+					<comments>https://blog.apnic.net/2024/07/03/a-newcomers-experience-at-ietf/#comments</comments>
+		
+		<dc:creator><![CDATA[Kavya Bhat]]></dc:creator>
+		<pubDate>Tue, 02 Jul 2024 22:42:56 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83929</guid>
+
+					<description><![CDATA[Guest Post: How an undergrad project led to becoming an Internet Standards Ambassador at IETF 119.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/03/a-newcomers-experience-at-ietf/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83929</post-id>	</item>
+		<item>
+		<title>Event Wrap: MyNOG 11</title>
+		<link>https://blog.apnic.net/2024/07/03/event-wrap-mynog-11/</link>
+					<comments>https://blog.apnic.net/2024/07/03/event-wrap-mynog-11/#respond</comments>
+		
+		<dc:creator><![CDATA[Samantha Douglas]]></dc:creator>
+		<pubDate>Tue, 02 Jul 2024 22:32:33 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=84222</guid>
+
+					<description><![CDATA[Paul Wilson delivered a keynote presentation on IP addressing at MyNOG 11, held in Kuala Lumpur, Malaysia on 5 June 2024.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/03/event-wrap-mynog-11/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">84222</post-id>	</item>
+		<item>
+		<title>IPv6 Anywhere</title>
+		<link>https://blog.apnic.net/2024/07/02/ipv6-anywhere/</link>
+					<comments>https://blog.apnic.net/2024/07/02/ipv6-anywhere/#respond</comments>
+		
+		<dc:creator><![CDATA[Mukhammad Andri Setiawan]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2024 23:09:49 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83804</guid>
+
+					<description><![CDATA[Guest Post: Accelerating IPv6 adoption with multiple models of deployment.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/02/ipv6-anywhere/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83804</post-id>	</item>
+		<item>
+		<title>Farewell APNIC community</title>
+		<link>https://blog.apnic.net/2024/07/01/farewell-apnic-community/</link>
+					<comments>https://blog.apnic.net/2024/07/01/farewell-apnic-community/#comments</comments>
+		
+		<dc:creator><![CDATA[Paul Wilson]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2024 06:51:01 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=84206</guid>
+
+					<description><![CDATA[Thoughts on the remarkable journey we’ve shared over the past 25 years.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/01/farewell-apnic-community/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">84206</post-id>	</item>
+		<item>
+		<title>APNIC farewells Paul Wilson</title>
+		<link>https://blog.apnic.net/2024/07/01/apnic-farewells-paul-wilson/</link>
+					<comments>https://blog.apnic.net/2024/07/01/apnic-farewells-paul-wilson/#comments</comments>
+		
+		<dc:creator><![CDATA[Kenny Huang]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2024 01:59:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=84125</guid>
+
+					<description><![CDATA[Paul Wilson has finished his service as APNIC’s Director General.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/01/apnic-farewells-paul-wilson/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">84125</post-id>	</item>
+		<item>
+		<title>DNS evolution</title>
+		<link>https://blog.apnic.net/2024/07/01/dns-evolution/</link>
+					<comments>https://blog.apnic.net/2024/07/01/dns-evolution/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff Huston]]></dc:creator>
+		<pubDate>Sun, 30 Jun 2024 23:16:28 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=84135</guid>
+
+					<description><![CDATA[The DNS has evolved significantly during the Internet's lifetime. What’s changed and what’s remained the same?]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/01/dns-evolution/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">84135</post-id>	</item>
+		<item>
+		<title>Event Wrap: VNNIC Internet Conference 2024</title>
+		<link>https://blog.apnic.net/2024/07/01/event-wrap-vnnic-internet-conference-2024/</link>
+					<comments>https://blog.apnic.net/2024/07/01/event-wrap-vnnic-internet-conference-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[Samantha Douglas]]></dc:creator>
+		<pubDate>Sun, 30 Jun 2024 22:57:39 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=84014</guid>
+
+					<description><![CDATA[APNIC actively participated in the VNNIC Internet Conference 2024 held in Hanoi, Viet Nam from 4 to 7 June 2024.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/07/01/event-wrap-vnnic-internet-conference-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">84014</post-id>	</item>
+		<item>
+		<title>[Podcast] Calling time on DNSSEC: Part 1 of 2</title>
+		<link>https://blog.apnic.net/2024/06/27/podcast-calling-time-on-dnssec-part-1-of-2/</link>
+					<comments>https://blog.apnic.net/2024/06/27/podcast-calling-time-on-dnssec-part-1-of-2/#respond</comments>
+		
+		<dc:creator><![CDATA[George Michaelson]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2024 20:30:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83869</guid>
+
+					<description><![CDATA[Geoff Huston discusses the market failure of DNSSEC in deployment.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/27/podcast-calling-time-on-dnssec-part-1-of-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83869</post-id>	</item>
+		<item>
+		<title>Event Wrap: BKNIX Peering Forum 2024 and ThaiNOG Day 6</title>
+		<link>https://blog.apnic.net/2024/06/26/event-wrap-bknix-peering-forum-2024-and-thainog-day-6/</link>
+					<comments>https://blog.apnic.net/2024/06/26/event-wrap-bknix-peering-forum-2024-and-thainog-day-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Samantha Douglas]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2024 03:11:20 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83951</guid>
+
+					<description><![CDATA[APNIC hosted a booth and conducted training at BKNIX Peering Forum 2024, held in conjunction with ThaiNOG Day 6 in Bangkok, Thailand from 30 to 31 May 2024. ]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/26/event-wrap-bknix-peering-forum-2024-and-thainog-day-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83951</post-id>	</item>
+		<item>
+		<title>Event Wrap: CommunicAsia 2024</title>
+		<link>https://blog.apnic.net/2024/06/26/event-wrap-communicasia-2024/</link>
+					<comments>https://blog.apnic.net/2024/06/26/event-wrap-communicasia-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[Samantha Douglas]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2024 03:11:01 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83850</guid>
+
+					<description><![CDATA[Paul Wilson presented on the benefits of IPv6 at CommunicAsia 2024 held in Singapore from 29 to 31 May 2024]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/26/event-wrap-communicasia-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83850</post-id>	</item>
+		<item>
+		<title>Navigating Starlink&#8217;s FCC paper trail</title>
+		<link>https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/</link>
+					<comments>https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/#respond</comments>
+		
+		<dc:creator><![CDATA[Ulrich Speidel]]></dc:creator>
+		<pubDate>Wed, 26 Jun 2024 01:06:48 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83828</guid>
+
+					<description><![CDATA[Guest Post: What I learned when I figured out how to navigate FCC filings.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83828</post-id>	</item>
+		<item>
+		<title>The evolution of network security</title>
+		<link>https://blog.apnic.net/2024/06/25/the-evolution-of-network-security/</link>
+					<comments>https://blog.apnic.net/2024/06/25/the-evolution-of-network-security/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharada Yeluri]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2024 23:28:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83820</guid>
+
+					<description><![CDATA[Guest Post: The evolution of network security and forthcoming challenges.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/25/the-evolution-of-network-security/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83820</post-id>	</item>
+		<item>
+		<title>Exploring IPv6 scanning activities and prefix discovery</title>
+		<link>https://blog.apnic.net/2024/06/25/exploring-ipv6-scanning-activities-and-prefix-discovery/</link>
+					<comments>https://blog.apnic.net/2024/06/25/exploring-ipv6-scanning-activities-and-prefix-discovery/#respond</comments>
+		
+		<dc:creator><![CDATA[Liang Zhao]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2024 23:14:17 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83377</guid>
+
+					<description><![CDATA[Guest Post: An analysis of scanning behaviour in darknets and honeynets.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/25/exploring-ipv6-scanning-activities-and-prefix-discovery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83377</post-id>	</item>
+		<item>
+		<title>The OSI Deprogrammer</title>
+		<link>https://blog.apnic.net/2024/06/20/the-osi-deprogrammer/</link>
+					<comments>https://blog.apnic.net/2024/06/20/the-osi-deprogrammer/#comments</comments>
+		
+		<dc:creator><![CDATA[Tony Finch]]></dc:creator>
+		<pubDate>Thu, 20 Jun 2024 02:06:46 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83165</guid>
+
+					<description><![CDATA[Guest Post: OSI is basically unavoidable, even though it’s deeply unsuitable.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/20/the-osi-deprogrammer/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83165</post-id>	</item>
+		<item>
+		<title>When I use a word it means what I chose it to mean</title>
+		<link>https://blog.apnic.net/2024/06/19/when-i-use-a-word-it-means-what-i-chose-it-to-mean/</link>
+					<comments>https://blog.apnic.net/2024/06/19/when-i-use-a-word-it-means-what-i-chose-it-to-mean/#comments</comments>
+		
+		<dc:creator><![CDATA[George Michaelson]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2024 05:35:47 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83231</guid>
+
+					<description><![CDATA[What does it mean when a given RFC changes the words in the specification? Has the specification changed?]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/19/when-i-use-a-word-it-means-what-i-chose-it-to-mean/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83231</post-id>	</item>
+		<item>
+		<title>Off-path TCP hijacking in NAT-enabled Wi-Fi networks</title>
+		<link>https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/</link>
+					<comments>https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/#comments</comments>
+		
+		<dc:creator><![CDATA[Yuxiang Yang]]></dc:creator>
+		<pubDate>Mon, 17 Jun 2024 23:19:06 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83437</guid>
+
+					<description><![CDATA[Guest Post: New off-path TCP hijacking attack in Wi-Fi networks that exploits vulnerabilities in the NAT mapping strategies of routers discovered.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83437</post-id>	</item>
+		<item>
+		<title>FreeIX Remote</title>
+		<link>https://blog.apnic.net/2024/06/17/freeix-remote/</link>
+					<comments>https://blog.apnic.net/2024/06/17/freeix-remote/#respond</comments>
+		
+		<dc:creator><![CDATA[Pim van Pelt]]></dc:creator>
+		<pubDate>Sun, 16 Jun 2024 23:59:56 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83526</guid>
+
+					<description><![CDATA[Guest Post: The FreeIX Remote project offers an outreach infrastructure that connects to IXPs and PNIs, and is entirely free.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/17/freeix-remote/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83526</post-id>	</item>
+		<item>
+		<title>RFC 9518 — What can Internet standards do about centralization?</title>
+		<link>https://blog.apnic.net/2024/06/14/rfc-9518-what-can-internet-standards-do-about-centralization/</link>
+					<comments>https://blog.apnic.net/2024/06/14/rfc-9518-what-can-internet-standards-do-about-centralization/#comments</comments>
+		
+		<dc:creator><![CDATA[Mark Nottingham]]></dc:creator>
+		<pubDate>Thu, 13 Jun 2024 23:15:09 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83082</guid>
+
+					<description><![CDATA[Guest Post: RFC 9518 "Centralization, Decentralization, and Internet Standards" has been published after more than two years of review, discussion, and revision.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/14/rfc-9518-what-can-internet-standards-do-about-centralization/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83082</post-id>	</item>
+		<item>
+		<title>Event Wrap: Phoenix Summit 2024</title>
+		<link>https://blog.apnic.net/2024/06/13/event-wrap-phoenix-summit-2024/</link>
+					<comments>https://blog.apnic.net/2024/06/13/event-wrap-phoenix-summit-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[Samantha Douglas]]></dc:creator>
+		<pubDate>Thu, 13 Jun 2024 01:27:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83802</guid>
+
+					<description><![CDATA[APNIC presented on Honeypots and securing BGP at the Phoenix Summit held in Dhaka, Bangladesh from 23 to 25 May 2024.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/13/event-wrap-phoenix-summit-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83802</post-id>	</item>
+		<item>
+		<title>[Podcast] The check is in the (e)mail(s)</title>
+		<link>https://blog.apnic.net/2024/06/13/podcast-the-check-is-in-the-emails/</link>
+					<comments>https://blog.apnic.net/2024/06/13/podcast-the-check-is-in-the-emails/#respond</comments>
+		
+		<dc:creator><![CDATA[George Michaelson]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2024 23:06:21 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83782</guid>
+
+					<description><![CDATA[Philip Paeps from the FreeBSD Cluster Administrators group discusses a simple but powerful approach to measurement: email.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/13/podcast-the-check-is-in-the-emails/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83782</post-id>	</item>
+		<item>
+		<title>Lessons learned when building my DNS resolver</title>
+		<link>https://blog.apnic.net/2024/06/12/lessons-learned-when-building-my-dns-resolver/</link>
+					<comments>https://blog.apnic.net/2024/06/12/lessons-learned-when-building-my-dns-resolver/#respond</comments>
+		
+		<dc:creator><![CDATA[Wen-Tsung Chang]]></dc:creator>
+		<pubDate>Wed, 12 Jun 2024 01:13:51 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83536</guid>
+
+					<description><![CDATA[Guest Post: What I learned building a DNS resolver from scratch without low-level network programming experience.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/12/lessons-learned-when-building-my-dns-resolver/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83536</post-id>	</item>
+		<item>
+		<title>2024 APNIC Survey is open </title>
+		<link>https://blog.apnic.net/2024/06/11/2024-apnic-survey-will-open-soon/</link>
+					<comments>https://blog.apnic.net/2024/06/11/2024-apnic-survey-will-open-soon/#respond</comments>
+		
+		<dc:creator><![CDATA[Dale Roberts]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 01:59:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83714</guid>
+
+					<description><![CDATA[The 2024 APNIC Survey will be held from 12 June to 5 July 2024. APNIC Members as well as stakeholders and anyone in the global community are welcome to provide their feedback. Thanks for your support. ]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/11/2024-apnic-survey-will-open-soon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83714</post-id>	</item>
+		<item>
+		<title>Routing topics at RIPE 88</title>
+		<link>https://blog.apnic.net/2024/06/11/routing-topics-at-ripe-88/</link>
+					<comments>https://blog.apnic.net/2024/06/11/routing-topics-at-ripe-88/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff Huston]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2024 22:37:26 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83739</guid>
+
+					<description><![CDATA[Bgpipe, reclaiming class E space, reconsidering RPKI validation, low-latency RPKI validation, and revisiting BCP 194.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/11/routing-topics-at-ripe-88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83739</post-id>	</item>
+		<item>
+		<title>NETmundial+10 — function over form </title>
+		<link>https://blog.apnic.net/2024/06/10/netmundial10-function-over-form/</link>
+					<comments>https://blog.apnic.net/2024/06/10/netmundial10-function-over-form/#respond</comments>
+		
+		<dc:creator><![CDATA[Pablo Hinojosa]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2024 03:37:22 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83689</guid>
+
+					<description><![CDATA[Strengthening Internet governance and digital policy processes.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/10/netmundial10-function-over-form/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83689</post-id>	</item>
+		<item>
+		<title>E pur si muove: Sometimes steering is virtual</title>
+		<link>https://blog.apnic.net/2024/06/07/e-pur-si-muove-sometimes-steering-is-virtual/</link>
+					<comments>https://blog.apnic.net/2024/06/07/e-pur-si-muove-sometimes-steering-is-virtual/#respond</comments>
+		
+		<dc:creator><![CDATA[George Michaelson]]></dc:creator>
+		<pubDate>Thu, 06 Jun 2024 21:51:39 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83031</guid>
+
+					<description><![CDATA[Phased array antennas and their role in model LEO communications.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/07/e-pur-si-muove-sometimes-steering-is-virtual/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83031</post-id>	</item>
+		<item>
+		<title>DNS topics at RIPE 88</title>
+		<link>https://blog.apnic.net/2024/06/06/dns-topics-at-ripe-88/</link>
+					<comments>https://blog.apnic.net/2024/06/06/dns-topics-at-ripe-88/#comments</comments>
+		
+		<dc:creator><![CDATA[Geoff Huston]]></dc:creator>
+		<pubDate>Thu, 06 Jun 2024 03:07:47 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=83668</guid>
+
+					<description><![CDATA[DNSSEC bootstrapping, DELEG update, DNS energy consumption, resolver BCP, and more from RIPE 88.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2024/06/06/dns-topics-at-ripe-88/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83668</post-id>	</item>
+	</channel>
+</rss>
