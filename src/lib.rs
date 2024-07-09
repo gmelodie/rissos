@@ -1,10 +1,12 @@
 use anyhow::{anyhow, Error, Result};
 use rss::Channel;
-use std::collections::HashMap;
-use std::fs::{self, File};
-use std::io::BufReader;
-use std::path::Path;
-use std::str::FromStr;
+use std::{
+    collections::HashMap,
+    fs::{self, File},
+    io::BufReader,
+    path::Path,
+    str::FromStr,
+};
 
 #[derive(Debug)]
 pub struct Database {
@@ -59,34 +61,42 @@ impl Database {
     }
 
     /// Adds a new channel from a given URL to the database
+    /// Returns an Err if it already exists
     pub fn add_channel(&mut self, url: &str) -> Result<()> {
-        // error: channel already exists
         if self.map.contains_key(url) {
             return Err(anyhow!("URL already present"));
         }
-        // fetch URL, build Channel struct, add to database
-        let body: String = ureq::get(url).call()?.into_string()?;
-        let channel = Channel::from_str(body.as_str())?;
-        self.map.insert(url.to_string(), channel);
-
-        Ok(())
+        self.update_channel(url)
     }
 
     /// Removes a channel from the database
     /// Takes the URL of the channel as key
     pub fn rm_channel(&mut self, url: &str) -> Result<Channel> {
-        // error: channel not included
-        if !self.map.contains_key(url) {
-            return Err(anyhow!("URL not present"));
-        }
-
-        self.map
-            .remove(url)
-            .ok_or(anyhow!("URL present but not removed"))
+        self.map.remove(url).ok_or(anyhow!("URL not present"))
     }
 
-    // update channel (only if last build date is newer than what we have, add force option)
-    // pub fn update_channel(&mut self, url: &str) -> Result<()> {}
+    /// Updates a single channel if present, adds it otherwise
+    pub fn update_channel(&mut self, url: &str) -> Result<()> {
+        // fetch URL, build Channel struct, add to database
+        let body: String = ureq::get(url).call()?.into_string()?;
+        let channel = Channel::from_str(body.as_str())?;
+
+        self.map
+            .entry(url.to_string())
+            .and_modify(|e| *e = channel.clone())
+            .or_insert(channel);
+
+        Ok(())
+    }
+
+    /// Updates all channels in Database
+    pub fn update(&mut self) -> Result<()> {
+        let urls: Vec<String> = self.map.keys().map(|url| url.to_string()).collect();
+        for url in urls {
+            self.update_channel(&url)?;
+        }
+        Ok(())
+    }
 }
 
 impl ToString for Database {
