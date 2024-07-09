@@ -71,7 +71,7 @@ impl Database {
 
     /// Removes a channel from the database
     /// Takes the URL of the channel as key
-    pub fn rm_channel(&mut self, url: &str) -> Result<Channel> {
+    pub fn remove_channel(&mut self, url: &str) -> Result<Channel> {
         self.map.remove(url).ok_or(anyhow!("URL not present"))
     }
 
@@ -161,7 +161,7 @@ mod tests {
     fn test_rm() {
         let mut db = Database::new();
         assert!(db.add_channel(EXAMPLE_FEED).is_ok());
-        assert!(db.rm_channel(EXAMPLE_FEED).is_ok());
+        assert!(db.remove_channel(EXAMPLE_FEED).is_ok());
         assert!(db.get_channel(EXAMPLE_FEED).is_none());
     }
 
@@ -169,8 +169,8 @@ mod tests {
     fn test_duplicate_rm() {
         let mut db = Database::new();
         assert!(db.add_channel(EXAMPLE_FEED).is_ok());
-        assert!(db.rm_channel(EXAMPLE_FEED).is_ok());
-        assert!(db.rm_channel(EXAMPLE_FEED).is_err());
+        assert!(db.remove_channel(EXAMPLE_FEED).is_ok());
+        assert!(db.remove_channel(EXAMPLE_FEED).is_err());
     }
 
     #[test]
